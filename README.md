@@ -52,7 +52,7 @@
 <h3 align="left">GitHub Status :</h3>
 
 
-<img align="right" alt="Yash98305 JS" width="450" height="auto" src="https://github.com/Yash98305/Yash98305/assets/99255356/e66af688-b3c8-4141-8f67-d09a6bb290b9" />
+<img align="right" alt="Yash98305 JS" width="400" height="auto" src="https://github.com/Yash98305/Yash98305/assets/99255356/e66af688-b3c8-4141-8f67-d09a6bb290b9" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yash98305&count_private=true&include_all_commits=true&show_icons=true&title_color=f6882b&text_color=e7e7e7&icon_color=f6882b&bg_color=0d111700" />
 
   
