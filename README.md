@@ -61,12 +61,17 @@
   <li><b>Smart India Hackathon 2023:</b> Backend Developer & Team Leader, conducted student dropout analysis for school education, ranked top 30 out of 189 teams.</li>
   <li><b>GLATHON 2023:</b> Backend Developer & Team Leader, designed an e-commerce website within a 48-hour hackathon.</li>
 </ul>
+## <h3 align="left">GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash98305&show_icons=true&locale=en&layout=compact" alt="yash98305" /></p>
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Yash98305&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash98305&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+  
+## 🏆 GitHub Trophies
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash98305&show_icons=true&theme=gotham" alt="Yash98305" />
-
+![](https://github-profile-trophy.vercel.app/?username=Yash98305&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash98305&" alt="yash98305" /></p>
