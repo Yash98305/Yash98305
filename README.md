@@ -1,4 +1,13 @@
 <img width="1834" alt="Make your README" src="https://github.com/Yash98305/Yash98305/assets/99255356/24d800fe-cd8d-467e-b825-dbf0e8a32d92">
+<h3 align="left">About me :</h3>
+<ul>
+  <li><b>I'm a passionate Full Stack Developer specializing in the MERN (MongoDB, Express.js, React, Node.js) stack.</b> My journey in the tech world is driven by a love for coding and a continuous desire to learn and innovate.</li>
+
+<li><b>Ambivert 🌟:</b> Balancing the best of both worlds, I thrive in collaborative team environments and enjoy quiet moments of deep, focused work.</li>
+<li><b>Problem Solver 🧩:</b> In my free time, you'll find me solving complex problems on LeetCode, sharpening my algorithmic and data structure skills.</li>
+<li><b>Lifelong Learner 📚:</b> I am committed to staying updated with the latest trends and technologies in full-stack development, always eager to expand my knowledge and skill set.</li>
+</ul>
+
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yashpatel98305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpatel98305" height="30" width="40" /></a>
@@ -26,19 +35,6 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
-
-
-<h3 align="left">Experience:</h3>
-<ul>
-  <li><b>Fulgent Technologies Private Limited:</b> Web Intern, contributed to a MERN stack chat application project, implemented WebSocket technology for real-time communication. (June 2023 – July 2023) <a href="LINK">More Details</a></li>
-</ul>
-
-<h3 align="left">Education:</h3>
-<ul>
-  <li><b>B.Tech in Computer Science:</b> GLA University, Mathura, 78.6% (Expected June 2025)</li>
-  <li><b>Intermediate:</b> Shriji Baba Saraswati Vidya Mandir, 78.3% (May 2021)</li>
-  <li><b>High School:</b> Shriji Baba Saraswati Vidya Mandir, 84.0% (May 2019)</li>
-</ul>
 
 
 <h3 align="left">GitHub Status :</h3>
