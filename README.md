@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Patel</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="500" height="300"/>
-</p>
-
- 
+<img width="1834" alt="Make your README" src="https://github.com/Yash98305/Yash98305/assets/99255356/24d800fe-cd8d-467e-b825-dbf0e8a32d92">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashpatel98305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpatel98305" height="30" width="40" /></a>
