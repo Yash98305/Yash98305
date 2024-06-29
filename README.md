@@ -62,7 +62,7 @@
 <br />
 <h3 align="left">GitHub Trophies :</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=Yash98305&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Yash98305&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=yash98305&label=Profile%20Views&color=0&icon=0&pretty=true" />
