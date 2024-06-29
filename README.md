@@ -5,10 +5,7 @@
   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="500" height="300"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash98305&label=Profile%20views&color=0e75b6&style=flat" alt="yash98305" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash98305" alt="yash98305" /></a> </p>
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashpatel98305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpatel98305" height="30" width="40" /></a>
