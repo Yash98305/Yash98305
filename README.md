@@ -51,16 +51,18 @@
 <br />
 <h3 align="left">GitHub Status :</h3>
 
-
-<img align="right" alt="Yash98305 JS" width="300" height="auto" src="https://github.com/Yash98305/Yash98305/assets/99255356/e66af688-b3c8-4141-8f67-d09a6bb290b9" />
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yash98305&count_private=true&include_all_commits=true&show_icons=true&title_color=f6882b&text_color=e7e7e7&icon_color=f6882b&bg_color=0d111700" />
+<p align="right">
+<img align="right" alt="Yash98305 JS" width="325" height="auto" src="https://github.com/Yash98305/Yash98305/assets/99255356/e66af688-b3c8-4141-8f67-d09a6bb290b9" />
+</p >
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash98305&count_private=true&include_all_commits=true&show_icons=true&title_color=f6882b&text_color=e7e7e7&icon_color=f6882b&bg_color=0d111700" />
 
   
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash98305&layout=compact&title_color=f6882b&text_color=e7e7e7&icon_color=007bff&bg_color=0d111700" />
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash98305&layout=compact&title_color=f6882b&text_color=e7e7e7&icon_color=007bff&bg_color=0d111700" />
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yash98305&theme=rising-sun" alt="GitHub Streak" /></a>
-<br />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Yash98305&theme=rising-sun" alt="GitHub Streak" />
+</p>
+
 <br />
 <br />
 <h3 align="left">GitHub Trophies :</h3>
