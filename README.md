@@ -68,13 +68,15 @@
 <a />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash98305&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash98305&theme=tokyonight" alt="Yash98305" />
   
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Yash98305&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash98305&" alt="yash98305" /></p>
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=yash98305&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
