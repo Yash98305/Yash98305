@@ -66,8 +66,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash98305&show_icons=true&locale=en" alt="yash98305" /></p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yash98305&show_icons=true&theme=gotham" alt="Yash98305" />
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash98305&" alt="yash98305" /></p>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=yash98305&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
-<img align="center" src="https://github.com/Yash98305/Yash98305/blob/output/github-contribution-grid-snake.svg"/>
