@@ -1,13 +1,13 @@
 <img width="1834" alt="Make your README" src="https://github.com/Yash98305/Yash98305/assets/99255356/24d800fe-cd8d-467e-b825-dbf0e8a32d92">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yashpatel98305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpatel98305" height="30" width="40" /></a>
-<a href="https://instagram.com/yash98305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash98305" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yashpatel98305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpatel98305" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yash98305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash98305" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/yashpatel98305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashpatel98305" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gla_n_569" target="blank"><img align="center" style = "width:35px;" src="https://github.com/Yash98305/Yash98305/assets/99255356/4d442bd2-884c-44da-a407-5e72bbc592cb" alt="gla_n_569" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yashpatel98305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashpatel98305" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -27,13 +27,6 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Projects:</h3>
-<ul>
-  <li><b>SaaS Plan with Stripe Integration:</b> Developed a full-stack SaaS application with subscription plans and Stripe payment integration. <a href="LINK">View Project</a></li>
-  <li><b>E-commerce Platform:</b> Collaborated on a comprehensive e-commerce platform with secure user authentication and order processing. <a href="LINK">View Project</a></li>
-  <li><b>Chat Application:</b> Created a real-time chat application using MERN stack and WebSockets for seamless communication. <a href="LINK">View Project</a></li>
-  <li><b>Vidyasaathi – School Portal:</b> Contributed to a project designed to address student dropout rates through detailed analysis and reporting. <a href="LINK">View Project</a></li>
-</ul>
 
 <h3 align="left">Experience:</h3>
 <ul>
@@ -47,21 +40,8 @@
   <li><b>High School:</b> Shriji Baba Saraswati Vidya Mandir, 84.0% (May 2019)</li>
 </ul>
 
-<h3 align="left">Skills:</h3>
-<ul>
-  <li><b>Programming Expertise:</b> Java, JavaScript, Python</li>
-  <li><b>Frameworks and Libraries:</b> React, Node.js, Express, MongoDB, MySQL</li>
-  <li><b>Familiar With:</b> Material-UI, Bootstrap</li>
-  <li><b>Developer Tools:</b> Git, GitHub, Postman, Thunder Client</li>
-</ul>
 
-<h3 align="left">Achievements:</h3>
-<ul>
-  <li><b>New India Vibrant Hackathon 2023:</b> Backend Developer & Team Leader, addressed student dropout issues in higher education.</li>
-  <li><b>Smart India Hackathon 2023:</b> Backend Developer & Team Leader, conducted student dropout analysis for school education, ranked top 30 out of 189 teams.</li>
-  <li><b>GLATHON 2023:</b> Backend Developer & Team Leader, designed an e-commerce website within a 48-hour hackathon.</li>
-</ul>
-## <h3 align="left">GitHub Stats</h3>
+<h3 align="left">GitHub Status :</h3>
 
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Yash98305&count_private=true&include_all_commits=true&show_icons=true&title_color=f6882b&text_color=e7e7e7&icon_color=f6882b&bg_color=0d111700" />
@@ -70,11 +50,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash98305&layout=compact&title_color=f6882b&text_color=e7e7e7&icon_color=007bff&bg_color=0d111700)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yash98305&theme=rising-sun" alt="GitHub Streak" /></a>
-## 🏆 GitHub Trophies
+
+<h3 align="left">GitHub Trophies :</h3>
 
 ![](https://github-profile-trophy.vercel.app/?username=Yash98305&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-
-
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=yash98305&label=Profile%20Views&color=0&icon=0&pretty=true" />
