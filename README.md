@@ -64,13 +64,12 @@
 ## <h3 align="left">GitHub Stats</h3>
 
 <a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Yash98305&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Yash98305&count_private=true&include_all_commits=true&show_icons=true&title_color=68D2E8&text_color=e7e7e7&icon_color=68D2E8&bg_color=171c28" />
 <a />
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash98305&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash98305&layout=compact&title_color=68D2E8&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash98305&theme=tokyonight" alt="Yash98305" />
-  
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yash98305&theme=transparent" alt="GitHub Streak" /></a>
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Yash98305&theme=discord&no-frame=true&no-bg=false&margin-w=4)
