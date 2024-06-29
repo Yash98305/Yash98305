@@ -70,4 +70,4 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=yash98305&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
-![Snake animation](https://github.com/Yash98305/Yash98305/blob/output/github-contribution-grid-snake.svg)
+<img align="center" src="https://github.com/Yash98305/Yash98305/blob/output/github-contribution-grid-snake.svg"/>
